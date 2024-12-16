@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Login_login_email</name>
+   <name>input_Choose user to start messaging_inputs_c7d68c</name>
    <tag></tag>
-   <elementGuidId>6b6974cc-a858-46b8-a789-56a4c19b92c8</elementGuidId>
+   <elementGuidId>55afd63f-c96a-47a2-aadf-9bcb4143274f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#login_email</value>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='login_email']</value>
+         <key>CSS</key>
+         <value>input.inputsendmessage</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,70 +23,62 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6ca78633-a9ca-4118-9b50-9476c729f995</webElementGuid>
+      <webElementGuid>120cf814-73a1-42ad-ac96-e0230e4c5076</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>class</name>
       <type>Main</type>
-      <value>login_email</value>
-      <webElementGuid>ebb84269-3940-4671-8f22-9a8cc2008325</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>83332e79-7c21-4e96-a6d7-450364b54ed3</webElementGuid>
+      <value>inputsendmessage</value>
+      <webElementGuid>21248d0d-ac73-46b9-9638-82f4a3b0239b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Email</value>
-      <webElementGuid>29d7ba84-96b7-4803-91ed-75812cfa2283</webElementGuid>
+      <value>Send Message....</value>
+      <webElementGuid>02660f70-77da-4776-bc0e-0e1b79b9aabb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;login_email&quot;)</value>
-      <webElementGuid>cc1a987b-e321-497b-a5d0-57f8cfa4a515</webElementGuid>
+      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;Chatting&quot;]/div[@class=&quot;BigMessageContainer&quot;]/div[@class=&quot;sendmessageinput&quot;]/input[@class=&quot;inputsendmessage&quot;]</value>
+      <webElementGuid>9b5377de-195c-4162-a266-6090338e4bbe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='login_email']</value>
-      <webElementGuid>27fdd4f8-730b-45e2-bb60-cdfa5ddc78c2</webElementGuid>
+      <value>//input[@value='']</value>
+      <webElementGuid>434007aa-38e3-4285-994e-36284726aff0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/persistgate/div/div[3]/div/div/div[2]/form/div/input</value>
-      <webElementGuid>61c6c30e-883d-4d32-a833-fb09140f6872</webElementGuid>
+      <value>//div[@id='root']/persistgate/div/div[3]/div/div[2]/input</value>
+      <webElementGuid>6063b7ac-ff7b-42cc-9870-ac77d47bbffa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/form/div/input</value>
-      <webElementGuid>0a868513-975d-443f-8672-3a8c80e880a1</webElementGuid>
+      <value>//div[2]/input</value>
+      <webElementGuid>5d59c33a-8d9a-4e26-bf34-18e594fc86e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'login_email' and @type = 'text' and @placeholder = 'Email']</value>
-      <webElementGuid>d38197c1-fc14-4a93-a5b7-500923fc8ae9</webElementGuid>
+      <value>//input[@placeholder = 'Send Message....']</value>
+      <webElementGuid>2e610779-a905-4317-9910-3f143edaaa3b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

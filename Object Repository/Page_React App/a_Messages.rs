@@ -6,12 +6,12 @@
    <elementGuidId>f25c819b-90b3-4c64-aeb2-957cc9d28bbd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/persistgate/div/div/ul/li[5]/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>li:nth-of-type(5) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/persistgate/div/div/ul/li[5]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d160ab50-ef5d-47fd-b5dd-e4de8c0249d6</webElementGuid>
+      <webElementGuid>ea5c3ecf-5fb1-4ab3-99cf-be4e171d5722</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/Chatting</value>
-      <webElementGuid>f7da398b-e190-4868-b449-5d9442302609</webElementGuid>
+      <webElementGuid>43adbb4c-6fe8-4f29-9dba-f764313a308e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Messages</value>
-      <webElementGuid>4b5b6829-9a9d-4893-bd79-bcd730722345</webElementGuid>
+      <webElementGuid>db393378-96c6-4e4d-b801-93a6e02469a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;navbar&quot;]/ul[@class=&quot;nav-menu&quot;]/li[5]/a[1]</value>
-      <webElementGuid>0edcb3f2-6ee6-4668-af16-feaabd9050f0</webElementGuid>
+      <webElementGuid>b5a867c3-c05f-4e24-b961-0a578c44f612</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/persistgate/div/div/ul/li[5]/a</value>
-      <webElementGuid>22151d21-f74b-4874-8831-6f45afc23a79</webElementGuid>
+      <webElementGuid>6c2418eb-969c-498c-a198-785f78b4d725</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Messages')]</value>
-      <webElementGuid>dc5ef6a7-f7b4-49a6-9fed-e90362e409b3</webElementGuid>
+      <webElementGuid>438939ff-cefa-4471-b4c9-f106b3a0a078</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/following::a[1]</value>
-      <webElementGuid>abffcb74-d2dc-431e-a1d9-5b352478ffe7</webElementGuid>
+      <webElementGuid>083e2f21-9e78-4ccb-870d-709346d752c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='List'])[1]/following::a[2]</value>
-      <webElementGuid>e1b4b2df-eed7-4819-9d24-f703e5c71056</webElementGuid>
+      <webElementGuid>d504dcdc-4852-4d22-966c-3a4f5f2e23a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::a[1]</value>
-      <webElementGuid>b7fe2070-af78-4dfc-8a12-5cca776fc4c7</webElementGuid>
+      <webElementGuid>e0a67ad7-3939-4538-84de-4e15166f00e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::a[1]</value>
-      <webElementGuid>08f5bba4-0842-4766-b89e-2639902ee344</webElementGuid>
+      <webElementGuid>82b1d19d-d24e-41dd-bd49-ea16ab8963f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Messages']/parent::*</value>
-      <webElementGuid>8705fac3-41e4-4e38-bb17-6219ba8d8ffe</webElementGuid>
+      <webElementGuid>50df819c-bac3-45f2-b2cb-5c1aefea2437</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/Chatting')]</value>
-      <webElementGuid>64ddade1-c57a-4685-b703-71c1f91a6f1c</webElementGuid>
+      <webElementGuid>f100c466-1202-4c99-b8a9-8c2418503984</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/a</value>
-      <webElementGuid>75e08680-65c6-450e-8296-43e837452b0f</webElementGuid>
+      <webElementGuid>47f26203-0f9e-457d-8552-120e46aa3dee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/Chatting' and (text() = 'Messages' or . = 'Messages')]</value>
-      <webElementGuid>d92b39f0-32dd-4620-afda-6fbc0943f509</webElementGuid>
+      <webElementGuid>39769c15-4ffa-47ab-8c89-d12315769bc4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
