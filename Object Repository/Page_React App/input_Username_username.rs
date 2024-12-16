@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Login_login_email</name>
+   <name>input_Username_username</name>
    <tag></tag>
-   <elementGuidId>6b6974cc-a858-46b8-a789-56a4c19b92c8</elementGuidId>
+   <elementGuidId>b82400ce-47b4-417c-9ef0-60ddd169500e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#login_email</value>
+         <value>#username</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='login_email']</value>
+         <value>//input[@id='username']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,70 +23,62 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ae575ced-cb52-478f-8088-747734dfebde</webElementGuid>
+      <webElementGuid>9f655386-8fd4-4a3c-b21f-028ccdbb5522</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>login_email</value>
-      <webElementGuid>afc74040-e023-4266-b668-a741c45bf317</webElementGuid>
+      <value>username</value>
+      <webElementGuid>dfbb1d64-3526-4a74-8a7f-be853ed9e4d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>value</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>c72bfab0-6d54-4ffe-989b-3e2d938721b6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Email</value>
-      <webElementGuid>d3269dbe-103a-4673-8df8-81dd814b4e25</webElementGuid>
+      <value>mohammedadnan</value>
+      <webElementGuid>88aa1a27-d227-4a31-8546-3a4d55524a87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;login_email&quot;)</value>
-      <webElementGuid>272e0663-7db0-49f9-8b3e-e70b76a26738</webElementGuid>
+      <value>id(&quot;username&quot;)</value>
+      <webElementGuid>49913e35-4e31-45bd-9943-e1f19bb39831</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='login_email']</value>
-      <webElementGuid>3c167775-7e44-43d9-92ec-8bc8650d8fee</webElementGuid>
+      <value>//input[@id='username']</value>
+      <webElementGuid>32694b2d-5542-432d-b1fe-eca19b28f344</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/persistgate/div/div[3]/div/div/div[2]/form/div/input</value>
-      <webElementGuid>4f6ef467-0127-45bc-aa0f-a034200c6337</webElementGuid>
+      <value>//div[@id='root']/persistgate/div/div[3]/div/div/div/div/form/div/input</value>
+      <webElementGuid>17a6e2d0-1f56-4113-8465-1ad7c5c61a4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/form/div/input</value>
-      <webElementGuid>7a1ea7f7-4543-41cb-a9ff-8b027a1576fe</webElementGuid>
+      <value>//form/div/input</value>
+      <webElementGuid>f8cb8c59-520c-4f4d-991f-95adf9ef7ee4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'login_email' and @type = 'text' and @placeholder = 'Email']</value>
-      <webElementGuid>b3282139-22db-426d-ac41-6e518d2168fb</webElementGuid>
+      <value>//input[@id = 'username']</value>
+      <webElementGuid>def4510f-e1f2-4685-9722-a76b47a70d26</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

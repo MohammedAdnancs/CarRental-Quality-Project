@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Login_login_email</name>
+   <name>input_Signup_signup_email</name>
    <tag></tag>
-   <elementGuidId>6b6974cc-a858-46b8-a789-56a4c19b92c8</elementGuidId>
+   <elementGuidId>b900c2d4-49c1-4eb5-a82d-1d5ac7bdcf92</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#login_email</value>
+         <value>#signup_email</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='login_email']</value>
+         <value>//input[@id='signup_email']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,70 +23,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ae575ced-cb52-478f-8088-747734dfebde</webElementGuid>
+      <webElementGuid>6cf6c79a-ddda-47cc-b48a-f066df7b2ac4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>login_email</value>
-      <webElementGuid>afc74040-e023-4266-b668-a741c45bf317</webElementGuid>
+      <value>signup_email</value>
+      <webElementGuid>bebe7365-6029-489f-8726-13a7c4187430</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>c72bfab0-6d54-4ffe-989b-3e2d938721b6</webElementGuid>
+      <value>email</value>
+      <webElementGuid>ac7deb39-5eaa-48ba-9b0b-9a532b134eb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Email</value>
-      <webElementGuid>d3269dbe-103a-4673-8df8-81dd814b4e25</webElementGuid>
+      <value>email</value>
+      <webElementGuid>5c2cfe99-5e32-4547-ab33-82c9752c8b2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;login_email&quot;)</value>
-      <webElementGuid>272e0663-7db0-49f9-8b3e-e70b76a26738</webElementGuid>
+      <value>id(&quot;signup_email&quot;)</value>
+      <webElementGuid>306a32d0-fb07-4f41-a792-759661e90690</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='login_email']</value>
-      <webElementGuid>3c167775-7e44-43d9-92ec-8bc8650d8fee</webElementGuid>
+      <value>//input[@id='signup_email']</value>
+      <webElementGuid>9cbd0043-a4da-4554-a473-c28b66303e6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/persistgate/div/div[3]/div/div/div[2]/form/div/input</value>
-      <webElementGuid>4f6ef467-0127-45bc-aa0f-a034200c6337</webElementGuid>
+      <value>//div[@id='root']/persistgate/div/div[3]/div/div/div/form/div[2]/input</value>
+      <webElementGuid>73dd17af-ce73-47e9-a258-fad18970eb98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/form/div/input</value>
-      <webElementGuid>7a1ea7f7-4543-41cb-a9ff-8b027a1576fe</webElementGuid>
+      <value>//div[2]/input</value>
+      <webElementGuid>01deead4-8143-422f-b607-33ace8fc1e19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'login_email' and @type = 'text' and @placeholder = 'Email']</value>
-      <webElementGuid>b3282139-22db-426d-ac41-6e518d2168fb</webElementGuid>
+      <value>//input[@id = 'signup_email' and @type = 'email' and @placeholder = 'email']</value>
+      <webElementGuid>27e0f3e7-ae42-4aec-be4b-2205fb6447c8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

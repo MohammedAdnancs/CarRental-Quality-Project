@@ -6,12 +6,12 @@
    <elementGuidId>496d8c64-7803-4341-92e3-7e91eab6adf9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/persistgate/div/div/div[2]/img</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/persistgate/div/div/div[2]/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>ef47bab9-8cee-47ca-8a94-0f8971559dd5</webElementGuid>
+      <webElementGuid>9216fc47-894c-4876-87aa-5c712e2a1537</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,12 +34,12 @@
       <webElementGuid>b490f1b3-8aff-457c-9205-bcdf421aa524</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;navbar&quot;]/div[@class=&quot;Usericonnav&quot;]/img[1]</value>
-      <webElementGuid>2b48e564-5523-43d0-8f5c-4be129c80e9e</webElementGuid>
+      <webElementGuid>94d94d62-062b-4bc8-afb0-b9975afae159</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,15 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/persistgate/div/div/div[2]/img</value>
-      <webElementGuid>8bc6cb63-4215-4265-ad98-44b091a0c510</webElementGuid>
+      <webElementGuid>d87363c7-7ba8-49d0-bc55-1e086dcfb242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>588321a6-7930-47a8-9779-ef89e4f67f11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -56,14 +64,6 @@
       <type>Main</type>
       <value>//img[contains(@src,'https://res.cloudinary.com/dbjv7n54i/image/upload/v1734348310/Userimages/piir1elqm1qpqw0xa5eg.jpg')]</value>
       <webElementGuid>a36ac122-8b4d-450d-8dc2-cd276c081670</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//img</value>
-      <webElementGuid>9ca6eefe-1723-4848-960d-7da1bb6bff89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

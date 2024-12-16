@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>p_LoginSignup</name>
+   <name>li_Logout</name>
    <tag></tag>
-   <elementGuidId>23d0ae93-bcdc-49b7-a458-0c7362d8407a</elementGuidId>
+   <elementGuidId>3d5ea507-82e9-4881-966f-7c1b3a206792</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.CustomButton > p</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/persistgate/div/div/a/button/p</value>
+         <value>//div[@id='root']/persistgate/div/div/div[2]/nav/ul/li[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,87 +22,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>p</value>
-      <webElementGuid>c7ae2339-abb8-4ddb-b60c-b02328af448a</webElementGuid>
+      <value>li</value>
+      <webElementGuid>70b0ca38-bd21-40eb-bc0c-4d1cf5cd6d60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>itemul</value>
+      <webElementGuid>e7d1177a-49b8-4535-976e-0c4f55fded19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login&amp;Signup</value>
-      <webElementGuid>0a818271-9524-4c40-ad86-4f91ebb2f147</webElementGuid>
+      <value>Logout</value>
+      <webElementGuid>043fa501-d500-4599-9988-d564e29acbe7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;navbar&quot;]/a[1]/button[@class=&quot;CustomButton&quot;]/p[1]</value>
-      <webElementGuid>74e38ac9-4134-4e35-a0d6-da7a12a9e176</webElementGuid>
+      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;navbar&quot;]/div[@class=&quot;Usericonnav&quot;]/nav[@class=&quot;menu&quot;]/ul[@class=&quot;UL&quot;]/li[@class=&quot;itemul&quot;]</value>
+      <webElementGuid>81294961-9b15-4ef4-9716-3e8e28f30530</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/persistgate/div/div/a/button/p</value>
-      <webElementGuid>8d8f272d-a144-4343-ab16-4f47fe9d8cf0</webElementGuid>
+      <value>//div[@id='root']/persistgate/div/div/div[2]/nav/ul/li[2]</value>
+      <webElementGuid>ff99c043-ff96-4539-9bd1-fc600b30740b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Messages'])[1]/following::p[1]</value>
-      <webElementGuid>91dda321-0777-4e35-8098-26ef1e0762d5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::li[1]</value>
+      <webElementGuid>d2779e76-a04f-48c8-9d34-080301129b10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/following::p[1]</value>
-      <webElementGuid>bcb9fcbc-36fd-4fcd-97e1-62c1ffd6a0fb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Messages'])[1]/following::li[2]</value>
+      <webElementGuid>1e53bca7-28a4-49ac-995a-4a5f7a333d0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drive the experience with NileDrive.From compact to'])[1]/preceding::p[1]</value>
-      <webElementGuid>c7255d91-76ee-4d05-aa4e-db9f01198315</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drive the experience with NileDrive.From compact to'])[1]/preceding::li[1]</value>
+      <webElementGuid>d6629d50-4c6c-4519-bea1-b83b9c71c5db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='luxury,our affordable rentals offer quality cars and'])[1]/preceding::p[1]</value>
-      <webElementGuid>926bdd9b-52bf-4d92-9c2d-4ff9286a240c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='luxury,our affordable rentals offer quality cars and'])[1]/preceding::li[1]</value>
+      <webElementGuid>43d4b395-bdca-4c95-b88c-d3a2b04b1286</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Login&amp;Signup']/parent::*</value>
-      <webElementGuid>cd09cf07-8447-4be6-b086-c142f9da9641</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
+      <webElementGuid>c2a3c4b3-5981-4ec7-a134-decebe528003</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button/p</value>
-      <webElementGuid>7b52e84a-0f07-4a1e-a365-ad5f171a30ad</webElementGuid>
+      <value>//nav/ul/li[2]</value>
+      <webElementGuid>b466435f-736f-4862-8301-c31a088053fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//p[(text() = 'Login&amp;Signup' or . = 'Login&amp;Signup')]</value>
-      <webElementGuid>6df62a99-354d-478a-954d-aa9bc68ca333</webElementGuid>
+      <value>//li[(text() = 'Logout' or . = 'Logout')]</value>
+      <webElementGuid>5344f5a6-b388-4e1f-8d11-80b6725263cc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

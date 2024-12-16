@@ -6,12 +6,12 @@
    <elementGuidId>2a627053-f403-473d-95f7-64f03919be95</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@type='button']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.CustomButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d619e6a9-68ba-4327-aa77-297cbc72a156</webElementGuid>
+      <webElementGuid>586542bf-a9da-4025-804d-ce0fbe6cfb70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>04dfae44-901a-4a57-b2bd-0d9712c5ebf8</webElementGuid>
+      <webElementGuid>d5d5d1d6-d7de-4221-ae0f-60cd297e88ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>CustomButton</value>
-      <webElementGuid>4b8b1a2f-9ea7-498b-9325-98e20930bc1d</webElementGuid>
+      <webElementGuid>c65bb3b1-92a8-4cc3-be76-adc8da6b305d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Edit profile</value>
-      <webElementGuid>c546a156-2654-4984-99bd-d8276e09cead</webElementGuid>
+      <webElementGuid>f5ee68e6-89ed-4673-b9e6-236b3930d774</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;Userprofile&quot;]/div[1]/div[@class=&quot;DashContainer&quot;]/div[@class=&quot;Dashboard&quot;]/div[@class=&quot;Dashboardleft&quot;]/form[1]/div[@class=&quot;buttons&quot;]/button[@class=&quot;CustomButton&quot;]</value>
-      <webElementGuid>5bff094a-273a-4b76-97da-44b7f259b018</webElementGuid>
+      <webElementGuid>ac623124-cc14-4b5c-a825-83cf91e9cbe6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='button']</value>
-      <webElementGuid>9fd5f843-6c09-403b-84b3-4cbb1899d4c6</webElementGuid>
+      <webElementGuid>00179dd3-22b4-4fba-8ca2-b16140a5f85d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,55 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/persistgate/div/div[3]/div/div/div/div/form/div[3]/button</value>
-      <webElementGuid>edeebf4e-6975-44ea-8dd4-1783b6dbcc48</webElementGuid>
+      <webElementGuid>56eb3fa9-6245-40ce-a690-f45eff926013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mohammedadnan@hotmail.com'])[1]/following::button[1]</value>
+      <webElementGuid>64d6180c-1bb3-41ae-afe0-0ec557fbc638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email:'])[1]/following::button[1]</value>
+      <webElementGuid>0d476261-4e61-470c-945f-818b2a52a953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Listings'])[1]/preceding::button[1]</value>
+      <webElementGuid>ce4162ea-1e8b-42ec-ac14-e6cc2759a939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NileDrive'])[2]/preceding::button[1]</value>
+      <webElementGuid>bec6f60a-a314-4175-a1f5-409a43f6b238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>ee13d76e-3e9c-4f63-8cae-91bf33f7e2f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Edit profile' or . = 'Edit profile')]</value>
+      <webElementGuid>dd15ae1d-4cb5-47d2-8be1-ddb7d8fc1d3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,45 +128,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='mohammed@gmail.com'])[1]/following::button[1]</value>
       <webElementGuid>cf880062-c770-4d25-bee7-82c4ec426266</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email:'])[1]/following::button[1]</value>
-      <webElementGuid>963df3e7-e467-4b06-9473-7c76a88fe14b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Listings'])[1]/preceding::button[1]</value>
-      <webElementGuid>f96bd9b7-f607-47a4-b208-a83d9488924a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='NileDrive'])[2]/preceding::button[1]</value>
-      <webElementGuid>ad72fd9c-4fc3-4a52-87c7-590878f0fbab</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>6563baef-a25a-48cb-9473-350e1b53583a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Edit profile' or . = 'Edit profile')]</value>
-      <webElementGuid>3b29dbc3-0554-4a76-a729-24bdb429b8d3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>p_LoginSignup</name>
+   <name>p_Save changes</name>
    <tag></tag>
-   <elementGuidId>23d0ae93-bcdc-49b7-a458-0c7362d8407a</elementGuidId>
+   <elementGuidId>0c75975b-d1f4-43df-af4b-b786401fdd09</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/persistgate/div/div/a/button/p</value>
+         <value>//div[@id='root']/persistgate/div/div[3]/div/div/div/div/form/div[3]/button/p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,71 +23,71 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>c7ae2339-abb8-4ddb-b60c-b02328af448a</webElementGuid>
+      <webElementGuid>d1697399-d21f-446e-9852-9f3b5115feb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login&amp;Signup</value>
-      <webElementGuid>0a818271-9524-4c40-ad86-4f91ebb2f147</webElementGuid>
+      <value>Save changes</value>
+      <webElementGuid>b275b7c3-3b04-4416-ba41-2d9672b25aef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;navbar&quot;]/a[1]/button[@class=&quot;CustomButton&quot;]/p[1]</value>
-      <webElementGuid>74e38ac9-4134-4e35-a0d6-da7a12a9e176</webElementGuid>
+      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;Userprofile&quot;]/div[1]/div[@class=&quot;DashContainer&quot;]/div[@class=&quot;Dashboard&quot;]/div[@class=&quot;Dashboardleft&quot;]/form[1]/div[@class=&quot;buttons&quot;]/button[@class=&quot;CustomButton&quot;]/p[1]</value>
+      <webElementGuid>bcbb5778-a900-4175-949a-9736a80c77e4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/persistgate/div/div/a/button/p</value>
-      <webElementGuid>8d8f272d-a144-4343-ab16-4f47fe9d8cf0</webElementGuid>
+      <value>//div[@id='root']/persistgate/div/div[3]/div/div/div/div/form/div[3]/button/p</value>
+      <webElementGuid>36d2d174-49e9-4f43-b498-85dd93804583</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Messages'])[1]/following::p[1]</value>
-      <webElementGuid>91dda321-0777-4e35-8098-26ef1e0762d5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email:'])[1]/following::p[1]</value>
+      <webElementGuid>a3a70461-0444-4252-af8c-732fa3644d3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/following::p[1]</value>
-      <webElementGuid>bcb9fcbc-36fd-4fcd-97e1-62c1ffd6a0fb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username:'])[1]/following::p[1]</value>
+      <webElementGuid>826c99ea-cc51-4da7-9860-a5da4d494240</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drive the experience with NileDrive.From compact to'])[1]/preceding::p[1]</value>
-      <webElementGuid>c7255d91-76ee-4d05-aa4e-db9f01198315</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Listings'])[1]/preceding::p[2]</value>
+      <webElementGuid>b9246218-6eca-4287-8328-187875f2a132</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='luxury,our affordable rentals offer quality cars and'])[1]/preceding::p[1]</value>
-      <webElementGuid>926bdd9b-52bf-4d92-9c2d-4ff9286a240c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NileDrive'])[2]/preceding::p[2]</value>
+      <webElementGuid>ef9ce896-6d70-441e-bee1-faf7695d0cfd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Login&amp;Signup']/parent::*</value>
-      <webElementGuid>cd09cf07-8447-4be6-b086-c142f9da9641</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Save changes']/parent::*</value>
+      <webElementGuid>6f138b71-96f7-45f5-a6d8-2c39656b974d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,14 +95,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/p</value>
-      <webElementGuid>7b52e84a-0f07-4a1e-a365-ad5f171a30ad</webElementGuid>
+      <webElementGuid>0b72179e-7334-4acd-89cb-32ce56f0a617</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//p[(text() = 'Login&amp;Signup' or . = 'Login&amp;Signup')]</value>
-      <webElementGuid>6df62a99-354d-478a-954d-aa9bc68ca333</webElementGuid>
+      <value>//p[(text() = 'Save changes' or . = 'Save changes')]</value>
+      <webElementGuid>920d24d3-9fd7-4ada-9937-bb94ff42c8ce</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

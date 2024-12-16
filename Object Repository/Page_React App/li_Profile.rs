@@ -6,12 +6,12 @@
    <elementGuidId>9074e4d9-ebb9-4c03-8f89-b2096b99db4e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/persistgate/div/div/div[2]/nav/ul/li</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>li.itemul</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/persistgate/div/div/div[2]/nav/ul/li</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>d5c2ab90-307a-4bfb-83b1-1552ad789548</webElementGuid>
+      <webElementGuid>25528ef5-0fb5-4a5a-9f44-fd42c8ef28ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>itemul</value>
-      <webElementGuid>219aa97b-f4a9-4d4d-9474-9e18f623d0b5</webElementGuid>
+      <webElementGuid>f719e8b1-c883-4839-a814-692e2dec0415</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Profile</value>
-      <webElementGuid>ad0bf0c6-8f4d-4431-8541-1f416949fd5f</webElementGuid>
+      <webElementGuid>c3893c12-ef9f-4076-bc45-79cf41f7b3bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;navbar&quot;]/div[@class=&quot;Usericonnav&quot;]/nav[@class=&quot;menu&quot;]/ul[@class=&quot;UL&quot;]/li[@class=&quot;itemul&quot;]</value>
-      <webElementGuid>f906c982-37df-401a-8c76-b4c85d6e2248</webElementGuid>
+      <webElementGuid>cbf0f2a7-841d-47f1-b9f3-c1447666a49a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/persistgate/div/div/div[2]/nav/ul/li</value>
-      <webElementGuid>570f859d-0e62-493e-abfe-cff0ff98390c</webElementGuid>
+      <webElementGuid>9a373a04-3290-46c3-b7b6-4edabd4a5b60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Messages'])[1]/following::li[1]</value>
-      <webElementGuid>31267193-528a-4365-aafa-a9b4df41f077</webElementGuid>
+      <webElementGuid>1c985af6-4a4d-4b8f-a5d7-7b7ca40766f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/following::li[2]</value>
-      <webElementGuid>f270c32a-851d-46df-9e87-2efff8f00824</webElementGuid>
+      <webElementGuid>6225886d-3ecf-4fc8-ae6c-7f7daa146506</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::li[1]</value>
-      <webElementGuid>df61f494-eb37-4a15-85c8-59c293682bff</webElementGuid>
+      <webElementGuid>61216218-539d-49e6-9e7d-36bf5df6c878</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Drive the experience with NileDrive.From compact to'])[1]/preceding::li[2]</value>
-      <webElementGuid>7c3d6e8c-b9f5-4114-ba0c-16a45d033630</webElementGuid>
+      <webElementGuid>44b8859c-f1fe-4e80-a1b4-4cab5e75b897</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Profile']/parent::*</value>
-      <webElementGuid>52d6a308-dfe1-4ad8-89ed-a5faee8e8c8f</webElementGuid>
+      <webElementGuid>ac31507b-3cde-4f81-8587-234cf58c1695</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//nav/ul/li</value>
-      <webElementGuid>16618bc5-4362-49b0-88da-d28940cd4a19</webElementGuid>
+      <webElementGuid>07561b7a-c710-4864-ba3a-5de354cfaa36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Profile' or . = 'Profile')]</value>
-      <webElementGuid>28d0d0e2-ca2e-49f3-8095-57585f711a08</webElementGuid>
+      <webElementGuid>a3790e25-44ca-4896-af7e-8c1f3be6caf8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

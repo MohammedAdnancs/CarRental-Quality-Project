@@ -6,12 +6,12 @@
    <elementGuidId>a2241075-adf9-41f5-8c82-c5901250084b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/persistgate/div/div[3]/div/div/div[2]/div/button/p</value>
+         <key>CSS</key>
+         <value>div.popup > button.CustomButton > p</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>button.CustomButton > p</value>
+         <key>XPATH</key>
+         <value>//div[@id='root']/persistgate/div/div[3]/div/div/div/button/p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>d1d5fbbd-75e4-4fb9-9f40-8babbb16e0ef</webElementGuid>
+      <webElementGuid>b6b0393e-5e72-4676-9afe-cf6fd75fcea8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,18 +31,74 @@
       <name>text</name>
       <type>Main</type>
       <value>Close</value>
-      <webElementGuid>016d0783-aa94-4c27-aa2b-6b902bed15cc</webElementGuid>
+      <webElementGuid>18e20c49-33a8-4b22-80d2-8456354d33bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;ListingInfo&quot;]/div[@class=&quot;Details-wrapper&quot;]/div[@class=&quot;Details-Container&quot;]/div[@class=&quot;popupContainer&quot;]/div[@class=&quot;popup&quot;]/button[@class=&quot;CustomButton&quot;]/p[1]</value>
-      <webElementGuid>3e0e4fcf-e0b1-427c-8820-3d248095119c</webElementGuid>
+      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;Login&quot;]/div[@class=&quot;Containerloginsignup&quot;]/div[@class=&quot;popupContainer&quot;]/div[@class=&quot;popup&quot;]/button[@class=&quot;CustomButton&quot;]/p[1]</value>
+      <webElementGuid>f2f52ebe-b4cd-4a1b-8220-5e5a3a4aeaa9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/persistgate/div/div[3]/div/div/div/button/p</value>
+      <webElementGuid>2d286e1c-6dcd-4d3d-8c26-92d70f438666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Messages'])[1]/following::p[2]</value>
+      <webElementGuid>a90f66ee-4974-43fb-995e-9393cd40273e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/following::p[2]</value>
+      <webElementGuid>88caa680-441d-4780-bf01-a7664957c83c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Signup'])[1]/preceding::p[1]</value>
+      <webElementGuid>678faa56-6fc6-4e24-a3b5-8b14597cc788</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Close']/parent::*</value>
+      <webElementGuid>f1a07925-1dd6-4e86-8ae6-2c5c4a1817cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button/p</value>
+      <webElementGuid>389fecc6-591a-4d6f-9cac-441a14cc6deb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Close' or . = 'Close')]</value>
+      <webElementGuid>77dc9873-15d4-4b70-ad24-34edafe1424a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -84,34 +140,10 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Close']/parent::*</value>
-      <webElementGuid>82e01211-d6a8-4e8f-b757-277c59e22627</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/p</value>
       <webElementGuid>22d5e655-54be-490e-aa20-14f6ba57487f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//p[(text() = 'Close' or . = 'Close')]</value>
-      <webElementGuid>f501090c-4a6a-4938-b3d2-78256ffdeb2b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='root']/persistgate/div/div[3]/div/div/div/button/p</value>
-      <webElementGuid>0a09489e-cc86-473a-b1a8-7a6cd826e497</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -152,37 +184,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Image'])[1]/preceding::p[1]</value>
       <webElementGuid>99c756f2-5859-4338-be5c-bc00bb889da6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Messages'])[1]/following::p[2]</value>
-      <webElementGuid>d5b18589-dbe0-46aa-becb-dbec7a64efa9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/following::p[2]</value>
-      <webElementGuid>7ebc03f6-e43e-4196-ba0a-0317c5d29b65</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Signup'])[1]/preceding::p[1]</value>
-      <webElementGuid>08ac839e-c887-40a5-b913-bcd50ef0b3c7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div/button/p</value>
-      <webElementGuid>4de661af-1e6c-494a-b2e3-6b9c95f51188</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
