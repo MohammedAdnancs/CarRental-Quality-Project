@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Login_login_password</name>
+   <name>input_Pickup Location_PickupLocation</name>
    <tag></tag>
-   <elementGuidId>9e892d00-0492-4e03-b3b4-eaf2bc47ea24</elementGuidId>
+   <elementGuidId>5ac6cd45-da23-4378-954a-a6f5d8bbf430</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='login_password']</value>
+         <value>//input[@id='PickupDate']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#login_password</value>
+         <value>#PickupDate</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,78 +23,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c8e44e93-ca12-4caf-a3bd-2170f1a4a45e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>login_password</value>
-      <webElementGuid>e5a391b2-54ca-48da-8656-b39aa4b083e8</webElementGuid>
+      <webElementGuid>a37dfe10-b3e7-441f-938d-29a8771fb441</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>f0d7c8b5-6e3e-4b52-aba0-e3048042616b</webElementGuid>
+      <value>text</value>
+      <webElementGuid>92c1fadd-59bc-4348-a5ad-7e71a7f0f99f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>id</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>fe46e425-ada7-43ce-9833-53f5a3b7bcb4</webElementGuid>
+      <value>PickupDate</value>
+      <webElementGuid>cbc68b0e-59f4-481f-b2d1-5b9ddc798d50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PickupLocation</value>
+      <webElementGuid>7722524e-6663-4d9f-890a-4a9e3a77d2f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;login_password&quot;)</value>
-      <webElementGuid>9fd49436-8a5f-4dc7-a5b2-245e8215c34a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>a</value>
-      <webElementGuid>a17f4cb9-099e-425c-bf56-f4815e5446dc</webElementGuid>
+      <value>id(&quot;PickupDate&quot;)</value>
+      <webElementGuid>5a589dc7-ecad-4daa-a843-a918f547148a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='login_password']</value>
-      <webElementGuid>c3322bad-3d0b-44de-a6eb-37963cfdcc74</webElementGuid>
+      <value>//input[@id='PickupDate']</value>
+      <webElementGuid>afbb36f2-001c-42d6-a478-85d84cd71497</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/persistgate/div/div[3]/div/div/div[2]/form/div[2]/input</value>
-      <webElementGuid>3d13022c-49e5-4c68-baac-47ac316b3337</webElementGuid>
+      <value>//div[@id='root']/persistgate/div/div[3]/div/div[2]/div/div/div[2]/input</value>
+      <webElementGuid>94e18c81-26aa-4df8-bfd7-00e8edcbf4c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/form/div[2]/input</value>
-      <webElementGuid>fc95ff77-010d-41cf-ad90-f51aaff3ff80</webElementGuid>
+      <value>//div[2]/input</value>
+      <webElementGuid>c21edc06-ae15-4a06-8ac2-a35912b2d367</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'login_password' and @type = 'password' and @placeholder = 'password']</value>
-      <webElementGuid>42abc558-235d-4b2e-801e-cba588ccc79e</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'PickupDate' and @name = 'PickupLocation']</value>
+      <webElementGuid>0eae9dec-b9bd-461e-940d-a624ca03a000</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

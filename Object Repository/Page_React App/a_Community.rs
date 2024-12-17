@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Rent</name>
+   <name>a_Community</name>
    <tag></tag>
-   <elementGuidId>68b1f4ad-0be1-44d1-9c5e-3d14ba0b7db3</elementGuidId>
+   <elementGuidId>19636acc-d342-458b-ad5d-9046a3caaca1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/persistgate/div/div/ul/li[2]/a</value>
+         <value>//div[@id='root']/persistgate/div/div[4]/div/div/div[3]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>li:nth-of-type(2) > a</value>
+         <value>div.Resources > a.TextULH</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,118 +23,118 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ef1f4468-8a18-4320-ad21-f9be6ea8f97f</webElementGuid>
+      <webElementGuid>340ae525-46c0-4c6b-b34d-2aa0ac8d8aa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>TextULH</value>
+      <webElementGuid>950799e2-5c26-4325-9e86-65f980fcc451</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/Rent</value>
-      <webElementGuid>bce23da8-f765-49cd-a50d-483e7e4a9a03</webElementGuid>
+      <value>#</value>
+      <webElementGuid>7909e8d0-831a-42b4-8528-d4b75d9ec67d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Rent</value>
-      <webElementGuid>9fc054a1-2b9f-426f-abdf-8da7bb45244a</webElementGuid>
+      <value>Community</value>
+      <webElementGuid>d9152ac4-9853-4ed8-ba61-0fc2eb46f6c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;navbar&quot;]/ul[@class=&quot;nav-menu&quot;]/li[2]/a[1]</value>
-      <webElementGuid>22a7c3cf-d112-4954-890a-59b2c9aadcc0</webElementGuid>
+      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;ContaineraLL&quot;]/div[@class=&quot;FooterContainer&quot;]/div[@class=&quot;Footer&quot;]/div[@class=&quot;Resources&quot;]/a[@class=&quot;TextULH&quot;]</value>
+      <webElementGuid>25362990-287b-4bb0-9806-7ad0f1e03a3f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/persistgate/div/div/ul/li[2]/a</value>
-      <webElementGuid>9498d7f3-4373-4c25-876c-1b605b07a053</webElementGuid>
+      <value>//div[@id='root']/persistgate/div/div[4]/div/div/div[3]/a</value>
+      <webElementGuid>b80fc426-b9b0-49f9-828e-f83759f9c9c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Rent')]</value>
-      <webElementGuid>1409e9c7-707b-4f2f-bb6a-8e9e46efac72</webElementGuid>
+      <value>//a[contains(text(),'Community')]</value>
+      <webElementGuid>d2554e10-b5c0-41af-9c83-f9d4522939fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[1]</value>
-      <webElementGuid>38a3a815-f5ca-40d2-823a-539c843ece17</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resources'])[1]/following::a[1]</value>
+      <webElementGuid>ecef0b25-fe50-4ef5-9d2c-b85c48acc532</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='List'])[1]/preceding::a[1]</value>
-      <webElementGuid>18bc46a9-b729-496d-8e66-1c2a862720a8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Products'])[1]/following::a[3]</value>
+      <webElementGuid>54914ff2-8f56-49bf-a879-f40ffcb8acf5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/preceding::a[2]</value>
-      <webElementGuid>3256e1f6-2b33-478d-a3a1-49611013292a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[2]/preceding::a[2]</value>
+      <webElementGuid>d53d705d-9c2b-482c-965e-0106901dbf18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Rent']/parent::*</value>
-      <webElementGuid>8e9f9773-6206-44b0-91fc-52173ee81e75</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get in touch'])[1]/preceding::a[4]</value>
+      <webElementGuid>37bde5f5-eb6f-4113-965e-5f82a31c424a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Community']/parent::*</value>
+      <webElementGuid>be557436-9c3d-473d-8dcc-13677a9b62d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/Rent')]</value>
-      <webElementGuid>d630275b-977f-4134-ab7b-5e192d718726</webElementGuid>
+      <value>(//a[contains(@href, '#')])[3]</value>
+      <webElementGuid>3498dbef-c486-4925-a07a-41822680a30e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/a</value>
-      <webElementGuid>33a3ded4-8ba5-4421-969f-3e24a9d73f93</webElementGuid>
+      <value>//div[3]/a</value>
+      <webElementGuid>11c7d178-6436-4acc-bacb-58fb34e17d4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/Rent' and (text() = 'Rent' or . = 'Rent')]</value>
-      <webElementGuid>790d26cb-e203-4271-bcdf-f34cccaffae9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/preceding::a[1]</value>
-      <webElementGuid>7fc92328-d44c-4758-b36c-beb0c7551c27</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Messages'])[1]/preceding::a[2]</value>
-      <webElementGuid>62283fdd-2008-4ba4-afb9-689e19f9a241</webElementGuid>
+      <value>//a[@href = '#' and (text() = 'Community' or . = 'Community')]</value>
+      <webElementGuid>617e050a-b71a-4f66-bf99-575db2391ab0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Login_login_password</name>
+   <name>textarea_Review_review</name>
    <tag></tag>
-   <elementGuidId>9e892d00-0492-4e03-b3b4-eaf2bc47ea24</elementGuidId>
+   <elementGuidId>385463cc-f2f6-470b-b9d3-014db8c8c42b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='login_password']</value>
+         <value>//textarea[@id='review']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#login_password</value>
+         <value>#review</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,79 +22,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>c8e44e93-ca12-4caf-a3bd-2170f1a4a45e</webElementGuid>
+      <value>textarea</value>
+      <webElementGuid>472c6dec-1481-4716-92a0-fd72b0abdf31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>login_password</value>
-      <webElementGuid>e5a391b2-54ca-48da-8656-b39aa4b083e8</webElementGuid>
+      <value>review</value>
+      <webElementGuid>c78cfbd0-87b1-4b90-a670-1c2844a80c83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>name</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>f0d7c8b5-6e3e-4b52-aba0-e3048042616b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>fe46e425-ada7-43ce-9833-53f5a3b7bcb4</webElementGuid>
+      <value>review</value>
+      <webElementGuid>23a99c01-bb76-42d2-94b4-2774991302fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;login_password&quot;)</value>
-      <webElementGuid>9fd49436-8a5f-4dc7-a5b2-245e8215c34a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>a</value>
-      <webElementGuid>a17f4cb9-099e-425c-bf56-f4815e5446dc</webElementGuid>
+      <value>id(&quot;review&quot;)</value>
+      <webElementGuid>f83a8d74-4141-456d-91bb-d8608ee6fc7d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='login_password']</value>
-      <webElementGuid>c3322bad-3d0b-44de-a6eb-37963cfdcc74</webElementGuid>
+      <value>//textarea[@id='review']</value>
+      <webElementGuid>be61c4fe-ce4d-491b-9ef4-c19baf5110e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/persistgate/div/div[3]/div/div/div[2]/form/div[2]/input</value>
-      <webElementGuid>3d13022c-49e5-4c68-baac-47ac316b3337</webElementGuid>
+      <value>//div[@id='root']/persistgate/div/div[3]/div[4]/div[3]/div/form/textarea</value>
+      <webElementGuid>2ed547d5-24c3-4564-9154-4c2a15039b99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/form/div[2]/input</value>
-      <webElementGuid>fc95ff77-010d-41cf-ad90-f51aaff3ff80</webElementGuid>
+      <value>//textarea</value>
+      <webElementGuid>734a8721-1c7a-4ce8-aefe-e5f62f268160</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'login_password' and @type = 'password' and @placeholder = 'password']</value>
-      <webElementGuid>42abc558-235d-4b2e-801e-cba588ccc79e</webElementGuid>
+      <value>//textarea[@id = 'review' and @name = 'review']</value>
+      <webElementGuid>36529ad7-8e90-4946-b34c-ac6ec5025a98</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

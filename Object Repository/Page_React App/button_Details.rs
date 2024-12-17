@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/persistgate/div/div[3]/div/div[2]/div[4]/div/div/div[5]/button</value>
+         <value>//div[@id='root']/persistgate/div/div[3]/div/div[2]/div/div/div/div[5]/button</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div:nth-of-type(4) > div.vehicle-card > div.details > div.ctas > button.btn</value>
+         <value>button.btn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6b5719bf-d2c2-4b89-ae15-21305dbd8a02</webElementGuid>
+      <webElementGuid>aaedda32-5a8a-4b6f-9887-664d57daa532</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn</value>
-      <webElementGuid>9b858271-df1f-4cec-8300-271c7cf74fdd</webElementGuid>
+      <webElementGuid>221f7fdc-488f-41b8-96c9-4668f6a4a98b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,18 +39,82 @@
       <name>text</name>
       <type>Main</type>
       <value>Details</value>
-      <webElementGuid>c4bedf42-faf6-4dd9-8f4b-bccafab22510</webElementGuid>
+      <webElementGuid>d5479e1c-4d53-41d0-9b4b-a5c6fe7e6c14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;Rentcars&quot;]/div[@class=&quot;Acontainer&quot;]/div[@class=&quot;Cwrapper&quot;]/div[4]/div[@class=&quot;vehicle-card&quot;]/div[@class=&quot;details&quot;]/div[@class=&quot;ctas&quot;]/button[@class=&quot;btn&quot;]</value>
-      <webElementGuid>c4fba04e-f16d-4574-8117-726e7904e82e</webElementGuid>
+      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;Rentcars&quot;]/div[@class=&quot;Acontainer&quot;]/div[@class=&quot;Cwrapper&quot;]/div[1]/div[@class=&quot;vehicle-card&quot;]/div[@class=&quot;details&quot;]/div[@class=&quot;ctas&quot;]/button[@class=&quot;btn&quot;]</value>
+      <webElementGuid>0322c117-e371-4a77-a7e7-0b5dc25bd3a1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/persistgate/div/div[3]/div/div[2]/div/div/div/div[5]/button</value>
+      <webElementGuid>10daa495-e6b2-49ee-a4cd-9405a1c31f41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Starting at'])[1]/following::button[1]</value>
+      <webElementGuid>2c9606a8-5794-40d8-ad69-b6395e465511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-porsche 911-'])[1]/following::button[1]</value>
+      <webElementGuid>0496e7be-6472-4038-b8c2-5a4e4c86fc17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-Dodge Challenger-'])[1]/preceding::button[1]</value>
+      <webElementGuid>4a97b552-319b-4de5-a676-b112dc1bbdab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Starting at'])[2]/preceding::button[1]</value>
+      <webElementGuid>79008457-0c24-4396-b72f-cad597756e48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Details']/parent::*</value>
+      <webElementGuid>d6861a1e-039c-4ae3-b53f-0039f9564188</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button</value>
+      <webElementGuid>fd332e4b-f966-49e5-9aa5-c4dff6951d9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Details' or . = 'Details')]</value>
+      <webElementGuid>92feecbb-f3cc-406a-b5f2-e7629f78e462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -96,14 +160,6 @@
       <type>Main</type>
       <value>//div[4]/div/div/div[5]/button</value>
       <webElementGuid>6d1e4e71-97cc-4672-9569-05a989e2bc92</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[(text() = 'Details' or . = 'Details')]</value>
-      <webElementGuid>102078b0-8e28-4171-bbb3-ad3f8c621136</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

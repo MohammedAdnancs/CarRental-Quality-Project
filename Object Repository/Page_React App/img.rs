@@ -6,12 +6,12 @@
    <elementGuidId>496d8c64-7803-4341-92e3-7e91eab6adf9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>img</value>
+         <key>XPATH</key>
+         <value>//div[@id='root']/persistgate/div/div[4]/div/div/div[5]/div/img</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/persistgate/div/div/div[2]/img</value>
+         <key>CSS</key>
+         <value>div.Socialmedia > img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,26 +23,50 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>9216fc47-894c-4876-87aa-5c712e2a1537</webElementGuid>
+      <webElementGuid>e7385daa-ab7d-4c73-b0b7-8bce94dc5bf2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>https://res.cloudinary.com/dbjv7n54i/image/upload/v1734348310/Userimages/piir1elqm1qpqw0xa5eg.jpg</value>
-      <webElementGuid>b490f1b3-8aff-457c-9205-bcdf421aa524</webElementGuid>
+      <value>/static/media/facebook.e6b2fb939c2985b6292f.png</value>
+      <webElementGuid>f69488de-626f-48b3-b2e9-d96d1fbe1583</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;navbar&quot;]/div[@class=&quot;Usericonnav&quot;]/img[1]</value>
-      <webElementGuid>94d94d62-062b-4bc8-afb0-b9975afae159</webElementGuid>
+      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;ContaineraLL&quot;]/div[@class=&quot;FooterContainer&quot;]/div[@class=&quot;Footer&quot;]/div[@class=&quot;GetInTouch&quot;]/div[@class=&quot;Socialmedia&quot;]/img[1]</value>
+      <webElementGuid>1d7e55dd-583d-4305-af8a-f0a848ba3dbb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/persistgate/div/div[4]/div/div/div[5]/div/img</value>
+      <webElementGuid>220b009f-7c47-4747-9631-f8ca07b9ab52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/img</value>
+      <webElementGuid>7fb03e89-ea1b-42ae-bf9d-5cdd8f3a04c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/media/facebook.e6b2fb939c2985b6292f.png']</value>
+      <webElementGuid>79e16774-579e-48eb-9963-c9c4e9822c49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>

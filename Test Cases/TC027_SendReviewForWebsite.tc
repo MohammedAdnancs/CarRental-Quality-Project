@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC027_SendReviewForWebsite</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bac15a25-3b35-4ed9-9d84-86999a097f5c</testCaseGuid>
+</TestCaseEntity>

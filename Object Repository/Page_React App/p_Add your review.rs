@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>p_LoginSignup</name>
+   <name>p_Add your review</name>
    <tag></tag>
-   <elementGuidId>23d0ae93-bcdc-49b7-a458-0c7362d8407a</elementGuidId>
+   <elementGuidId>d581fd5f-3df3-4a4e-a7aa-a616f5c8c74d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/persistgate/div/div/a/button/p</value>
+         <value>//div[@id='root']/persistgate/div/div[3]/div[4]/button/p</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.CustomButton > p</value>
+         <value>div.OurReviewsContainer > button.CustomButton > p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,86 +23,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>8b7e01cc-9cd8-47f6-a5a3-213ebd4a9fbf</webElementGuid>
+      <webElementGuid>ea1fe73b-25fb-4e9e-88b8-d9c844c06c3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login&amp;Signup</value>
-      <webElementGuid>2559dc73-2a67-4f2b-a0bc-bfd89e73bd54</webElementGuid>
+      <value>Add your review</value>
+      <webElementGuid>8a471bdd-bf1f-4e90-9399-8482e70315a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;navbar&quot;]/a[1]/button[@class=&quot;CustomButton&quot;]/p[1]</value>
-      <webElementGuid>a5f5ce8c-df8b-4f1d-b87f-46b3537a562b</webElementGuid>
+      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;Home&quot;]/div[@class=&quot;OurReviewsContainer&quot;]/button[@class=&quot;CustomButton&quot;]/p[1]</value>
+      <webElementGuid>f45a4fe2-985d-42b5-ac05-1f4607f61953</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/persistgate/div/div/a/button/p</value>
-      <webElementGuid>a7160e6f-01b8-4fbb-af38-2b7fde60e1c9</webElementGuid>
+      <value>//div[@id='root']/persistgate/div/div[3]/div[4]/button/p</value>
+      <webElementGuid>96ce5312-28a4-4f59-a296-8a4e9f3f2b80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Messages'])[1]/following::p[1]</value>
-      <webElementGuid>1ec50f88-a546-46f9-b79d-7f9713b646f6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Working Steps'])[1]/following::p[9]</value>
+      <webElementGuid>e6278bcd-542c-4c75-a854-902493cf473f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/following::p[1]</value>
-      <webElementGuid>bbee2d26-220b-44c1-87cf-fa17350f8163</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NileDrive'])[2]/preceding::p[1]</value>
+      <webElementGuid>881fc916-b0f7-443b-899f-c12123ac0186</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drive the experience with NileDrive.From compact to'])[1]/preceding::p[1]</value>
-      <webElementGuid>8fdf7f8d-e7a7-4acd-8804-9c20c81cb892</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Products'])[1]/preceding::p[2]</value>
+      <webElementGuid>bd64f5f7-8537-4d81-af9c-1eee56920bed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='luxury,our affordable rentals offer quality cars and'])[1]/preceding::p[1]</value>
-      <webElementGuid>947d51ef-92be-45c6-ac1f-759b0869f645</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Login&amp;Signup']/parent::*</value>
-      <webElementGuid>47a635a2-dd09-4832-9b2b-4499f9623acd</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Add your review']/parent::*</value>
+      <webElementGuid>643c7428-1e2f-4618-8c6b-773da097e6e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button/p</value>
-      <webElementGuid>d6abf6d7-0218-4534-9ede-2c2d5521cfbd</webElementGuid>
+      <value>//div[4]/button/p</value>
+      <webElementGuid>f50cc0fc-b6e9-4104-a86e-57062dd7494e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//p[(text() = 'Login&amp;Signup' or . = 'Login&amp;Signup')]</value>
-      <webElementGuid>e70af1a3-0820-4c90-a324-21d04899f912</webElementGuid>
+      <value>//p[(text() = 'Add your review' or . = 'Add your review')]</value>
+      <webElementGuid>6ef2cc5c-6cee-4f55-a54f-23dc8ae11ce9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

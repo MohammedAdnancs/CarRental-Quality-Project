@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_LISTER_fas fa-star filled-star_1</name>
+   <tag></tag>
+   <elementGuidId>ef565fe6-63e5-487b-abb0-d78b4e8ee9d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/persistgate/div/div[3]/div/div/div[2]/div/div/div/i[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7fb49f47-f6b6-443e-afc6-81764c4467ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-star filled-star</value>
+      <webElementGuid>76791be7-58e4-47d9-a50e-1f3af13a84be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;ListingInfo&quot;]/div[@class=&quot;Details-wrapper&quot;]/div[@class=&quot;Details-Container&quot;]/div[@class=&quot;ListingRight&quot;]/div[@class=&quot;TopPart&quot;]/div[@class=&quot;ListerInfo&quot;]/div[@class=&quot;Listing-rating&quot;]/i[@class=&quot;fas fa-star filled-star&quot;]</value>
+      <webElementGuid>b192f7fc-33a5-4f81-afe8-04f786ce9b7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/persistgate/div/div[3]/div/div/div[2]/div/div/div/i[4]</value>
+      <webElementGuid>6f4147a7-17fb-4c75-921e-6e89b5bef842</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i[4]</value>
+      <webElementGuid>732c10bb-5e71-4e1a-bff1-0d6ca9912a4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC028_GiveRatingToSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f1179d6d-d721-4bc3-a8ad-8da334ff314f</testCaseGuid>
+</TestCaseEntity>

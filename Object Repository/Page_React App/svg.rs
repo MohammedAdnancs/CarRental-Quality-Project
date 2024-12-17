@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='hellokhaledmsg'])[1]/following::*[name()='svg'][1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Return Date'])[1]/following::*[name()='svg'][1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>3dca1ed2-6d68-429e-b9a1-e249b4071f21</webElementGuid>
+      <webElementGuid>3e9235bc-7c6e-4446-b463-3557aef51f7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>stroke</name>
       <type>Main</type>
       <value>currentColor</value>
-      <webElementGuid>8de75a8f-4068-4eb1-8c6a-3e6db62ea15a</webElementGuid>
+      <webElementGuid>58faf32e-0a74-4f32-a996-6c6bf52fff30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>currentColor</value>
-      <webElementGuid>ca876c2a-8864-4e0e-bf80-0af0b11cf6ee</webElementGuid>
+      <webElementGuid>9aa07d68-007c-4826-9783-b28bdad94e6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>stroke-width</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>530bb466-2273-4d03-a390-5862febe67a7</webElementGuid>
+      <webElementGuid>c1c089d7-a3c5-4c12-adf5-960aa84f55cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,31 +55,31 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 512 512</value>
-      <webElementGuid>a4414a7a-9ae3-496d-89ce-4f20c69d9e17</webElementGuid>
+      <webElementGuid>e7270e34-4063-42cd-bd04-1d0db1ba7193</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>color</name>
       <type>Main</type>
-      <value>#F5F5F5</value>
-      <webElementGuid>7c40cb7b-0e78-4647-a658-d27c384d266a</webElementGuid>
+      <value>#212227</value>
+      <webElementGuid>436b0f1b-8193-4b30-90d0-325b8c30b17a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>32</value>
-      <webElementGuid>e19946b8-02bc-4ddc-8371-3f78c50b9b6e</webElementGuid>
+      <value>1em</value>
+      <webElementGuid>9b648832-52f1-4d1d-90c6-22f34d8c1122</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>32</value>
-      <webElementGuid>d78f0e3e-f7c5-466d-97a8-e74f6a37fea2</webElementGuid>
+      <value>1em</value>
+      <webElementGuid>9699b6a0-05b4-4673-a0b1-dcbe10a3c0b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,18 +87,58 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>e2cf8748-2efd-43e7-ad8c-e903752f0737</webElementGuid>
+      <webElementGuid>db2b734b-618b-4b97-95ad-cb71584f4093</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;Chatting&quot;]/div[@class=&quot;BigMessageContainer&quot;]/div[@class=&quot;sendmessageinput&quot;]/button[@class=&quot;buttonsendmessage&quot;]/svg[1]</value>
-      <webElementGuid>dc408ced-8965-4b10-83b6-8e24adb2a691</webElementGuid>
+      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;Home&quot;]/div[@class=&quot;Container&quot;]/div[@class=&quot;Search&quot;]/div[@class=&quot;SearchHomePage&quot;]/div[@class=&quot;SearchContainer&quot;]/button[@class=&quot;CustomButton&quot;]/span[1]/svg[1]</value>
+      <webElementGuid>c2ef99d3-fa5b-4681-a7b6-37344265f518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>font-size</name>
+      <type>Main</type>
+      <value>1.5em</value>
+      <webElementGuid>3f69f918-e445-46d1-a010-2aa8aec3d69c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Return Date'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>2d4f3adf-10b5-49a5-90cf-ff94d490cf37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pickup Date'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>bbbf7765-6ebb-481d-9eaf-c5c013bc1044</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>7540a4f7-3f37-4723-a1ba-f38a6df4086c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='a'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>39ae0ade-d0bd-43ff-a537-f3dab6ddd544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>

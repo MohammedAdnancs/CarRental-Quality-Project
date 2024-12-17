@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Rent</name>
+   <name>a_Why choose us</name>
    <tag></tag>
-   <elementGuidId>68b1f4ad-0be1-44d1-9c5e-3d14ba0b7db3</elementGuidId>
+   <elementGuidId>05adafd0-b651-491b-86cc-4580a06d3614</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/persistgate/div/div/ul/li[2]/a</value>
+         <value>//div[@id='root']/persistgate/div/div[4]/div/div/div[4]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>li:nth-of-type(2) > a</value>
+         <value>div.AboutUs > a.TextULH</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,118 +23,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ef1f4468-8a18-4320-ad21-f9be6ea8f97f</webElementGuid>
+      <webElementGuid>ba30eca5-fdbe-4009-8d34-6f35990af0f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>TextULH</value>
+      <webElementGuid>b29dfdaa-60d5-427c-adb8-e3f07e257209</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/Rent</value>
-      <webElementGuid>bce23da8-f765-49cd-a50d-483e7e4a9a03</webElementGuid>
+      <value>#</value>
+      <webElementGuid>d464e268-eb2f-49e4-ba0e-603c4c100f05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Rent</value>
-      <webElementGuid>9fc054a1-2b9f-426f-abdf-8da7bb45244a</webElementGuid>
+      <value>Why choose us</value>
+      <webElementGuid>523bbb9e-23d3-4c4c-95e3-c3c7c42dea1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;navbar&quot;]/ul[@class=&quot;nav-menu&quot;]/li[2]/a[1]</value>
-      <webElementGuid>22a7c3cf-d112-4954-890a-59b2c9aadcc0</webElementGuid>
+      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;ContaineraLL&quot;]/div[@class=&quot;FooterContainer&quot;]/div[@class=&quot;Footer&quot;]/div[@class=&quot;AboutUs&quot;]/a[@class=&quot;TextULH&quot;]</value>
+      <webElementGuid>964de492-c345-48ac-85a4-a14022e8b4a0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/persistgate/div/div/ul/li[2]/a</value>
-      <webElementGuid>9498d7f3-4373-4c25-876c-1b605b07a053</webElementGuid>
+      <value>//div[@id='root']/persistgate/div/div[4]/div/div/div[4]/a</value>
+      <webElementGuid>43a6d550-9d56-4826-962f-acf43551e060</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Rent')]</value>
-      <webElementGuid>1409e9c7-707b-4f2f-bb6a-8e9e46efac72</webElementGuid>
+      <value>//a[contains(text(),'Why choose us')]</value>
+      <webElementGuid>5b209ef2-4e8b-4ebd-8888-705b99fb1baa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[1]</value>
-      <webElementGuid>38a3a815-f5ca-40d2-823a-539c843ece17</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[2]/following::a[1]</value>
+      <webElementGuid>cd42fb59-1726-4279-ab37-67e7bee4796a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='List'])[1]/preceding::a[1]</value>
-      <webElementGuid>18bc46a9-b729-496d-8e66-1c2a862720a8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resources'])[1]/following::a[3]</value>
+      <webElementGuid>d8fa2c6e-5b12-41c8-8e40-38e54fca6baf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/preceding::a[2]</value>
-      <webElementGuid>3256e1f6-2b33-478d-a3a1-49611013292a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get in touch'])[1]/preceding::a[2]</value>
+      <webElementGuid>acca0a19-45e2-4956-b4ae-285498bc4225</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Rent']/parent::*</value>
-      <webElementGuid>8e9f9773-6206-44b0-91fc-52173ee81e75</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Why choose us']/parent::*</value>
+      <webElementGuid>9375f1c5-0d3e-4c68-bdda-388bb3725a9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/Rent')]</value>
-      <webElementGuid>d630275b-977f-4134-ab7b-5e192d718726</webElementGuid>
+      <value>(//a[contains(@href, '#')])[5]</value>
+      <webElementGuid>0df407ac-0c50-41fe-8eba-06c2907fc820</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/a</value>
-      <webElementGuid>33a3ded4-8ba5-4421-969f-3e24a9d73f93</webElementGuid>
+      <value>//div[4]/a</value>
+      <webElementGuid>3af248f4-40de-4242-88df-a4cdbcdf6d6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/Rent' and (text() = 'Rent' or . = 'Rent')]</value>
-      <webElementGuid>790d26cb-e203-4271-bcdf-f34cccaffae9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/preceding::a[1]</value>
-      <webElementGuid>7fc92328-d44c-4758-b36c-beb0c7551c27</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Messages'])[1]/preceding::a[2]</value>
-      <webElementGuid>62283fdd-2008-4ba4-afb9-689e19f9a241</webElementGuid>
+      <value>//a[@href = '#' and (text() = 'Why choose us' or . = 'Why choose us')]</value>
+      <webElementGuid>b50f8b98-18e8-48e5-bad2-b74e6c029c11</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
